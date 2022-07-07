@@ -102,7 +102,7 @@
     "inquirer": "^6.2.1",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.23",
     "passport-http": "^0.3.0",
     "passport-jwt": "^4.0.0",
